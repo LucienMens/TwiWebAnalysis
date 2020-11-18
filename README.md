@@ -1,0 +1,1 @@
+NLP and Twi practice (hopefully) using Kasa (Speak)
